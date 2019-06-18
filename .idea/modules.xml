@@ -8,7 +8,10 @@
       <module fileurl="file://$PROJECT_DIR$/AndroidBeamDemo/AndroidBeamDemo.iml" filepath="$PROJECT_DIR$/AndroidBeamDemo/AndroidBeamDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ApiDemos/ApiDemos.iml" filepath="$PROJECT_DIR$/ApiDemos/ApiDemos.iml" />
       <module fileurl="file://$PROJECT_DIR$/AppNavigation/AppNavigation.iml" filepath="$PROJECT_DIR$/AppNavigation/AppNavigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BluetoothChat/BluetoothChat.iml" filepath="$PROJECT_DIR$/BluetoothChat/BluetoothChat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Snake/Snake.iml" filepath="$PROJECT_DIR$/Snake/Snake.iml" />
       <module fileurl="file://$PROJECT_DIR$/ApiDemos/tests/tests.iml" filepath="$PROJECT_DIR$/ApiDemos/tests/tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Snake/tests/tests1.iml" filepath="$PROJECT_DIR$/Snake/tests/tests1.iml" />
     </modules>
   </component>
 </project>
