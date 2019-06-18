@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AccelerometerPlay/AccelerometerPlay.iml" filepath="$PROJECT_DIR$/AccelerometerPlay/AccelerometerPlay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ActionBarCompat/ActionBarCompat.iml" filepath="$PROJECT_DIR$/ActionBarCompat/ActionBarCompat.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Android-SDK-Samples.iml" filepath="$PROJECT_DIR$/.idea/Android-SDK-Samples.iml" />
     </modules>
   </component>
