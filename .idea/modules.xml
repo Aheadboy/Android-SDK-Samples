@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/ActionBarCompat/ActionBarCompat.iml" filepath="$PROJECT_DIR$/ActionBarCompat/ActionBarCompat.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Android-SDK-Samples.iml" filepath="$PROJECT_DIR$/.idea/Android-SDK-Samples.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndroidBeamDemo/AndroidBeamDemo.iml" filepath="$PROJECT_DIR$/AndroidBeamDemo/AndroidBeamDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ApiDemos/ApiDemos.iml" filepath="$PROJECT_DIR$/ApiDemos/ApiDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ApiDemos/tests/tests.iml" filepath="$PROJECT_DIR$/ApiDemos/tests/tests.iml" />
     </modules>
   </component>
 </project>
