@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/AccelerometerPlay/AccelerometerPlay.iml" filepath="$PROJECT_DIR$/AccelerometerPlay/AccelerometerPlay.iml" />
       <module fileurl="file://$PROJECT_DIR$/ActionBarCompat/ActionBarCompat.iml" filepath="$PROJECT_DIR$/ActionBarCompat/ActionBarCompat.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Android-SDK-Samples.iml" filepath="$PROJECT_DIR$/.idea/Android-SDK-Samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidBeamDemo/AndroidBeamDemo.iml" filepath="$PROJECT_DIR$/AndroidBeamDemo/AndroidBeamDemo.iml" />
     </modules>
   </component>
 </project>
